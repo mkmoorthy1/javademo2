@@ -1,1 +1,1 @@
-This project created for testing purpose
+This project is created for testing purpose
