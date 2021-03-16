@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Welcome To Jsp</h1>
+    <h1>Welcome To Jsp Programming</h1>
 </body>
 </html>
